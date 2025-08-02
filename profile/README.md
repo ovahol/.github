@@ -1,10 +1,10 @@
 # Ovahol Technologies
 
-**Revolutionizing Clinical Engineering through AI and Smart Systems**
+**Reimagine Healthcare Technology Management**
 
 ---
 
-## 🚀 About Us
+<!-- ## 🚀 About Us
 
 Ovahol Technologies is dedicated to advancing medical equipment lifecycle management using modern technologies including Artificial Intelligence, data science, and cloud computing. Our mission is to empower healthcare systems—especially in resource-limited settings—with intelligent tools that enhance equipment reliability, safety, and availability.
 
@@ -83,4 +83,4 @@ Have questions or ideas? Reach out to us:
 
 ## 📄 License
 
----
+--- -->
