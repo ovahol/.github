@@ -2,6 +2,8 @@
 
 **Reimagine Healthcare Technology Management**
 
+Ovahol Technologies is a clinical engineering technology company that builds open tools and commercial products for the clinical engineering ecosystem.
+
 ---
 
 <!-- ## 🚀 About Us
